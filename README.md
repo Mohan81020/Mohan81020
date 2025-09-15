@@ -37,19 +37,19 @@ At **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaign Analytics
 ## 📂 Featured Projects  
 🔹 **Superstore Sales Performance Analysis**  
 *SQL + Power BI dashboard analyzing category-wise sales & profit.*  
-[🔗 View Project]((https://github.com/Mohan81020/Sales-performance-sql-powerbi))  
+[🔗 View Project](https://github.com/Mohan81020/Sales-performance-sql-powerbi)  
 
 🔹 **HR Attrition Analysis**  
 *Advanced SQL + DAX to analyze attrition drivers, job satisfaction & work-life balance.*  
-[🔗 View Project]((https://github.com/Mohan81020/HR-Attrition-SQL-PowerBI))  
+[🔗 View Project](https://github.com/Mohan81020/HR-Attrition-SQL-PowerBI)  
 
 🔹 **Indian Lok Sabha Election 2024 Results**  
 *SQL + Power BI visualization of party performance, vote trends, and EVM vs Postal votes.*  
-[🔗 View Project]((https://github.com/Mohan81020/lok-sabha-election-2024-SQL-PowerBI))  
+[🔗 View Project](https://github.com/Mohan81020/lok-sabha-election-2024-SQL-PowerBI)  
 
 🔹 **Adventure Works Analysis**  
 *Power BI project on revenue, profit, customer segmentation & regional trends.*  
-[🔗 View Project]((https://github.com/Mohan81020/PowerBI-AdventureWorks-Cycle-Analysis))  
+[🔗 View Project](https://github.com/Mohan81020/PowerBI-AdventureWorks-Cycle-Analysis)  
 
 > 👉 More projects & dashboards available here: [My GitHub Portfolio](https://github.com/Mohan81020)
 
