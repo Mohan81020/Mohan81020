@@ -63,7 +63,7 @@ At **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaign Analytics
 
 ## 🎓 Education  
 **B.Tech — Metallurgical & Materials Engineering**  
-National Institute of Technology (NIT), Jamshedpur *(2018 – 2022)*  
+National Institute of Technology (NIT), Jamshedpur  
 
 ---
 
