@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mohan Kumar  
 
 **Data Analyst | SQL | Power BI | Excel | Python**  
-🎓 B.Tech (NIT Jamshedpur) · 💼 1.8 years as Business Analyst (Affine)  
+🎓 B.Tech  · 💼 1.8 years as Business Analyst (Affine)  
 
 ---
 
