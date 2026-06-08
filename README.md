@@ -1,18 +1,31 @@
 # 👋 Hi, I'm Mohan Kumar  
 
 **Data Analyst | SQL | Power BI | Excel | Python**  
-🎓 B.Tech  · 💼 1.8 years as Business Analyst (Affine)  
+🎓 B.Tech  · 💼 4 years as Data Analyst (Tanama Software Pvt Ltd)  
 
 ---
 
-## 🔎 About Me  
-I’m a **Data Analytics Enthusiast** with experience in **data analysis, business intelligence, and reporting automation**.  
-At **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaign Analytics** projects, where I:  
-- Automated reporting pipelines (**60% less manual work** 🚀)  
-- Built interactive dashboards in **Power BI & Excel**  
-- Conducted **A/B testing & KPI analysis** (CTR, CVR, CPA, Retention, Revenue)  
+## 🔎 About Me
 
-💡 My focus: **turning raw data into actionable insights** that help businesses grow.  
+I'm a **Data Analyst** with **4 years of experience** in **SQL, Python, Power BI, and Excel**, helping businesses make data-driven decisions through analytics, dashboard development, and reporting automation.
+
+At **Tanama Software**, I work on **Inventory, Sales, and Campaign Analytics** for **TI Cycles of India**, where I:
+
+* Built an **Inventory Health Scoring Model** using Python and ABC-XYZ segmentation
+* Developed **SQL-based reports** for inventory tracking and sales performance analysis
+* Created **Power BI dashboards** for inventory, sales, and campaign KPIs
+* Automated business reports using **Python (openpyxl) and Excel**
+* Performed campaign analysis using **ROMS, CPA, CTR, and uplift testing**
+
+Previously at **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaign Analytics** projects, where I:
+
+* Automated reporting processes (**60% reduction in manual effort** 🚀)
+* Built interactive dashboards in **Power BI & Excel**
+* Conducted **A/B testing and statistical analysis**
+* Analyzed campaign KPIs including **CTR, CVR, CPA, Revenue, and Monthly Active Users**
+
+💡 My focus: **Turning raw data into actionable insights that drive business growth and better decision-making.**
+  
 
 ---
 
@@ -29,14 +42,6 @@ At **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaign Analytics
 - **Programming:** Python (Pandas, NumPy, Matplotlib)  
 - **Other:** Business Analysis · EDA · Campaign Analytics · A/B Testing  
 
----
-
-## 💼 Experience  
-**Business Analyst — Affine, Bengaluru** 
-- Delivered campaign insights for **Microsoft Bing Ads & Azure**.  
-- Built **Power BI dashboards & Excel reports** around key KPIs.  
-- Automated 10+ Azure campaign reports (cutting delivery time by 60%).  
-- Performed statistical analysis & forecasting to optimize campaigns.  
 
 ---
 
