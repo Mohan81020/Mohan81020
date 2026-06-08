@@ -65,11 +65,6 @@ Previously at **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaig
 > 👉 More projects & dashboards available here: [My GitHub Portfolio](https://github.com/Mohan81020)
 
 ---
-
-## 🎓 Education  
-**B.Tech — Metallurgical & Materials Engineering**  
-National Institute of Technology (NIT), Jamshedpur  
-
 ---
 
 ## 🏆 Achievements  
