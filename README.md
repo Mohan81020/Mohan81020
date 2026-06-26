@@ -1,15 +1,15 @@
 # 👋 Hi, I'm Mohan Kumar  
 
 **Data Analyst | SQL | Power BI | Excel | Python**  
-🎓 B.Tech  · 💼 4 years as Data Analyst (Tanama Software Pvt Ltd)  
+🎓 B.Tech  · 💼 Data Analyst  
 
 ---
 
 ## 🔎 About Me
 
-I'm a **Data Analyst** with **4 years of experience** in **SQL, Python, Power BI, and Excel**, helping businesses make data-driven decisions through analytics, dashboard development, and reporting automation.
+I'm a **Data Analyst** with ** experience** in **SQL, Python, Power BI, and Excel**, helping businesses make data-driven decisions through analytics, dashboard development, and reporting automation.
 
-At **Tanama Software**, I work on **Inventory, Sales, and Campaign Analytics** for **TI Cycles of India**, where I:
+I work on **Inventory, Sales, and Campaign Analytics** for **TI Cycles of India**, where I:
 
 * Built an **Inventory Health Scoring Model** using Python and ABC-XYZ segmentation
 * Developed **SQL-based reports** for inventory tracking and sales performance analysis
@@ -74,9 +74,6 @@ Previously at **Affine**, I worked on **Microsoft Bing Ads** and **Azure Campaig
 
 ---
 
-## 📬 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](http://www.linkedin.com/in/mohan-kumar-b055a9197/)  
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:mohan122000kumar@gmail.com)  
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-lightgrey?style=for-the-badge&logo=github)](https://github.com/Mohan81020) 
+
 
 ---
