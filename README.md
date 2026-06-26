@@ -7,7 +7,7 @@
 
 ## 🔎 About Me
 
-I'm a **Data Analyst** with ** experience** in **SQL, Python, Power BI, and Excel**, helping businesses make data-driven decisions through analytics, dashboard development, and reporting automation.
+I'm a **Data Analyst** with **experience** in **SQL, Python, Power BI, and Excel**, helping businesses make data-driven decisions through analytics, dashboard development, and reporting automation.
 
 I work on **Inventory, Sales, and Campaign Analytics** for **TI Cycles of India**, where I:
 
